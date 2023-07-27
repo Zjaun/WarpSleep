@@ -1,0 +1,5 @@
+name: warpsleep
+version: "1.0-SNAPSHOT"
+author: Zjaun
+main: zjaun.warpsleep.WarpSleep
+api-version: '1.20'
